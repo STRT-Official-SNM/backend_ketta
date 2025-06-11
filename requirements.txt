@@ -1,0 +1,5 @@
+flask
+google-generativeai
+python-dotenv
+elevenlabs
+base64
